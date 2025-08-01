@@ -14,3 +14,4 @@ Using IBM cloud lite and watsonx.ai Studio to Design a machine learning model to
 - Python for data processing and model implementation
 # Files Attached
 - Capston Project Power System Fault Detection
+- Random Forest Classifier_ fault_project
