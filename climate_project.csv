@@ -1,0 +1,12 @@
+Fault ID,Fault Type,"Fault Location (Latitude, Longitude)",Voltage (V),Current (A),Power Load (MW),Temperature (°C),Wind Speed (km/h),Maintenance Status,Component Health,Duration of Fault (hrs),Down time (hrs)
+F024,Line Breakage,"(34.8432,-1182489)",1877,249,54,33,15,Scheduled,Faulty,3.2,6.4
+F014,Line Breakage,"(34.3229,-118.46)",2289,192,52,35,28,Scheduled,Normal,4.1,5.8
+F036,Overheating,"(34.7444,-118.5682)",2264,183,48,38,15,Pending,Faulty,2.4,6.5
+F042,Line Breakage,"(34.1986,-118.9095)",2106,231,49,24,20,Completed,Faulty,2.5,3.3
+F053,Line Breakage,"(34.0295,-118.0712)",2173,195,50,22,13,Pending,Overheated,5.8,3.3
+F059,Line Breakage,"(34.8072,-118.6883)",1949,193,50,25,28,Scheduled,Normal,4,4.6
+F067,Transformer Failure,"(34.2067,-1183596)",1807,185,51,26,13,Scheduled,Normal,4.6,6.5
+F006,Overheating,"(34.05,-118.24)",2150,220,52,32,22,Pending,Overheated,5,7
+F026,Overheating,"(34.9593,-118.9408)",2010,197,47,35,15,Completed,Normal,4.6,3.3
+F021,Line Breakage,"(34.1203,-118.2873)",1864,224,49,34,23,Scheduled,Overheated,2.7,5.9
+F005,Transformer Failure,"(34.0545,-118.243)",1900,190,50,30,18,Scheduled,Faulty,3.5,4
