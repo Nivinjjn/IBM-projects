@@ -13,4 +13,4 @@ Using IBM cloud lite and watsonx.ai Studio to Design a machine learning model to
 - Vector Indexing for semantic search (Watsonx.ai)
 - Python for data processing and model implementation
 # Files Attached
-- 
+- Capston Project Power System Fault Detection
